@@ -158,7 +158,9 @@ int y = 5 + 1/2.0;
 ```
 
 
-d.  double x = 5 + (float)2/3.0;
+d.  
+```cpp
+double x = 5 + (float)2/3.0;
 ```
 
 
